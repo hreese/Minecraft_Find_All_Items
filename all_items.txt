@@ -1,0 +1,625 @@
+Iron Shovel                        , minecraft:iron_shovel                   , 
+Iron Pickaxe                       , minecraft:iron_pickaxe                  , 
+Iron Axe                           , minecraft:iron_axe                      , 
+Flint and Steel                    , minecraft:flint_and_steel               , 
+Apple                              , minecraft:apple                         , 
+Bow                                , minecraft:bow                           , 
+Arrow                              , minecraft:arrow                         , 
+Coal                               , minecraft:coal                          , 0
+Charcoal                           , minecraft:coal                          , 1
+Diamond                            , minecraft:diamond                       , 
+Iron Ingot                         , minecraft:iron_ingot                    , 
+Gold Ingot                         , minecraft:gold_ingot                    , 
+Iron Sword                         , minecraft:iron_sword                    , 
+Wooden Sword                       , minecraft:wooden_sword                  , 
+Wooden Shovel                      , minecraft:wooden_shovel                 , 
+Wooden Pickaxe                     , minecraft:wooden_pickaxe                , 
+Wooden Axe                         , minecraft:wooden_axe                    , 
+Stone Sword                        , minecraft:stone_sword                   , 
+Stone Shovel                       , minecraft:stone_shovel                  , 
+Stone Pickaxe                      , minecraft:stone_pickaxe                 , 
+Stone Axe                          , minecraft:stone_axe                     , 
+Diamond Sword                      , minecraft:diamond_sword                 , 
+Diamond Shovel                     , minecraft:diamond_shovel                , 
+Diamond Pickaxe                    , minecraft:diamond_pickaxe               , 
+Diamond Axe                        , minecraft:diamond_axe                   , 
+Stick                              , minecraft:stick                         , 
+Bowl                               , minecraft:bowl                          , 
+Mushroom Stew                      , minecraft:mushroom_stew                 , 
+Golden Sword                       , minecraft:golden_sword                  , 
+Golden Shovel                      , minecraft:golden_shovel                 , 
+Golden Pickaxe                     , minecraft:golden_pickaxe                , 
+Golden Axe                         , minecraft:golden_axe                    , 
+String                             , minecraft:string                        , 
+Feather                            , minecraft:feather                       , 
+Gunpowder                          , minecraft:gunpowder                     , 
+Wooden Hoe                         , minecraft:wooden_hoe                    , 
+Stone Hoe                          , minecraft:stone_hoe                     , 
+Iron Hoe                           , minecraft:iron_hoe                      , 
+Diamond Hoe                        , minecraft:diamond_hoe                   , 
+Golden Hoe                         , minecraft:golden_hoe                    , 
+Seeds                              , minecraft:wheat_seeds                   , 
+Wheat                              , minecraft:wheat                         , 
+Bread                              , minecraft:bread                         , 
+Leather Cap                        , minecraft:leather_helmet                , 
+Leather Tunic                      , minecraft:leather_chestplate            , 
+Leather Pants                      , minecraft:leather_leggings              , 
+Leather Boots                      , minecraft:leather_boots                 , 
+Chain Helmet                       , minecraft:chainmail_helmet              , 
+Chain Chestplate                   , minecraft:chainmail_chestplate          , 
+Chain Leggings                     , minecraft:chainmail_leggings            , 
+Chain Boots                        , minecraft:chainmail_boots               , 
+Iron Helmet                        , minecraft:iron_helmet                   , 
+Iron Chestplate                    , minecraft:iron_chestplate               , 
+Iron Leggings                      , minecraft:iron_leggings                 , 
+Iron Boots                         , minecraft:iron_boots                    , 
+Diamond Helmet                     , minecraft:diamond_helmet                , 
+Diamond Chestplate                 , minecraft:diamond_chestplate            , 
+Diamond Leggings                   , minecraft:diamond_leggings              , 
+Diamond Boots                      , minecraft:diamond_boots                 , 
+Golden Helmet                      , minecraft:golden_helmet                 , 
+Golden Chestplate                  , minecraft:golden_chestplate             , 
+Golden Leggings                    , minecraft:golden_leggings               , 
+Golden Boots                       , minecraft:golden_boots                  , 
+Flint                              , minecraft:flint                         , 
+Raw Porkchop                       , minecraft:porkchop                      , 
+Cooked Porkchop                    , minecraft:cooked_porkchop               , 
+Painting                           , minecraft:painting                      , 
+Golden Apple                       , minecraft:golden_apple                  , 0
+Enchanted Golden Apple             , minecraft:golden_apple                  , 1
+Sign                               , minecraft:sign                          , 
+Oak Door                           , minecraft:wooden_door                   , 
+Bucket                             , minecraft:bucket                        , 
+Water Bucket                       , minecraft:water_bucket                  , 
+Lava Bucket                        , minecraft:lava_bucket                   , 
+Minecart                           , minecraft:minecart                      , 
+Saddle                             , minecraft:saddle                        , 
+Iron Door                          , minecraft:iron_door                     , 
+Redstone                           , minecraft:redstone                      , 
+Snowball                           , minecraft:snowball                      , 
+Boat                               , minecraft:boat                          , 
+Leather                            , minecraft:leather                       , 
+Milk                               , minecraft:milk_bucket                   , 
+Brick                              , minecraft:brick                         , 
+Clay                               , minecraft:clay_ball                     , 
+Sugar Cane                         , minecraft:reeds                         , 
+Paper                              , minecraft:paper                         , 
+Book                               , minecraft:book                          , 
+Slimeball                          , minecraft:slime_ball                    , 
+Minecart with Chest                , minecraft:chest_minecart                , 
+Minecart with Furnace              , minecraft:furnace_minecart              , 
+Egg                                , minecraft:egg                           , 
+Compass                            , minecraft:compass                       , 
+Fishing Rod                        , minecraft:fishing_rod                   , 
+Clock                              , minecraft:clock                         , 
+Glowstone Dust                     , minecraft:glowstone_dust                , 
+Raw Fish                           , minecraft:fish                          , 0
+Raw Salmon                         , minecraft:fish                          , 1
+Clownfish                          , minecraft:fish                          , 2
+Pufferfish                         , minecraft:fish                          , 3
+Cooked Fish                        , minecraft:cooked_fish                   , 0
+Cooked Salmon                      , minecraft:cooked_fish                   , 1
+Ink Sac                            , minecraft:dye                           , 0
+Rose Red                           , minecraft:dye                           , 1
+Cactus Green                       , minecraft:dye                           , 2
+Cocoa Beans                        , minecraft:dye                           , 3
+Lapis Lazuli                       , minecraft:dye                           , 4
+Purple Dye                         , minecraft:dye                           , 5
+Cyan Dye                           , minecraft:dye                           , 6
+Light Gray Dye                     , minecraft:dye                           , 7
+Gray Dye                           , minecraft:dye                           , 8
+Pink Dye                           , minecraft:dye                           , 9
+Lime Dye                           , minecraft:dye                           , 10
+Dandelion Yellow                   , minecraft:dye                           , 11
+Light Blue Dye                     , minecraft:dye                           , 12
+Magenta Dye                        , minecraft:dye                           , 13
+Orange Dye                         , minecraft:dye                           , 14
+Bone Meal                          , minecraft:dye                           , 15
+Bone                               , minecraft:bone                          , 
+Sugar                              , minecraft:sugar                         , 
+Cake                               , minecraft:cake                          , 
+Bed                                , minecraft:bed                           , 
+Redstone Repeater                  , minecraft:repeater                      , 
+Cookie                             , minecraft:cookie                        , 
+Shears                             , minecraft:shears                        , 
+Melon                              , minecraft:melon                         , 
+Pumpkin Seeds                      , minecraft:pumpkin_seeds                 , 
+Melon Seeds                        , minecraft:melon_seeds                   , 
+Raw Beef                           , minecraft:beef                          , 
+Steak                              , minecraft:cooked_beef                   , 
+Raw Chicken                        , minecraft:chicken                       , 
+Cooked Chicken                     , minecraft:cooked_chicken                , 
+Rotten Flesh                       , minecraft:rotten_flesh                  , 
+Ender Pearl                        , minecraft:ender_pearl                   , 
+Blaze Rod                          , minecraft:blaze_rod                     , 
+Ghast Tear                         , minecraft:ghast_tear                    , 
+Gold Nugget                        , minecraft:gold_nugget                   , 
+Nether Wart                        , minecraft:nether_wart                   , 
+Glass Bottle                       , minecraft:glass_bottle                  , 
+Spider Eye                         , minecraft:spider_eye                    , 
+Fermented Spider Eye               , minecraft:fermented_spider_eye          , 
+Blaze Powder                       , minecraft:blaze_powder                  , 
+Magma Cream                        , minecraft:magma_cream                   , 
+Brewing Stand                      , minecraft:brewing_stand                 , 
+Cauldron                           , minecraft:cauldron                      , 
+Eye of Ender                       , minecraft:ender_eye                     , 
+Glistering Melon                   , minecraft:speckled_melon                , 
+Bottle o' Enchanting               , minecraft:experience_bottle             , 
+Fire Charge                        , minecraft:fire_charge                   , 
+Book and Quill                     , minecraft:writable_book                 , 
+Written Book                       , minecraft:written_book                  , 
+Emerald                            , minecraft:emerald                       , 
+Item Frame                         , minecraft:item_frame                    , 
+Flower Pot                         , minecraft:flower_pot                    , 
+Carrot                             , minecraft:carrot                        , 
+Potato                             , minecraft:potato                        , 
+Baked Potato                       , minecraft:baked_potato                  , 
+Poisonous Potato                   , minecraft:poisonous_potato              , 
+Empty Map                          , minecraft:map                           , 
+Golden Carrot                      , minecraft:golden_carrot                 , 
+Carrot on a Stick                  , minecraft:carrot_on_a_stick             , 
+Nether Star                        , minecraft:nether_star                   , 
+Pumpkin Pie                        , minecraft:pumpkin_pie                   , 
+Firework Rocket                    , minecraft:fireworks                     , 
+Firework Star                      , minecraft:firework_charge               , 
+Enchanted Book                     , minecraft:enchanted_book                , 
+Redstone Comparator                , minecraft:comparator                    , 
+Nether Brick                       , minecraft:netherbrick                   , 
+Nether Quartz                      , minecraft:quartz                        , 
+Minecart with TNT                  , minecraft:tnt_minecart                  , 
+Minecart with Hopper               , minecraft:hopper_minecart               , 
+Prismarine Shard                   , minecraft:prismarine_shard              , 
+Prismarine Crystals                , minecraft:prismarine_crystals           , 
+Raw Rabbit                         , minecraft:rabbit                        , 
+Cooked Rabbit                      , minecraft:cooked_rabbit                 , 
+Rabbit Stew                        , minecraft:rabbit_stew                   , 
+Rabbit's Foot                      , minecraft:rabbit_foot                   , 
+Rabbit Hide                        , minecraft:rabbit_hide                   , 
+Armor Stand                        , minecraft:armor_stand                   , 
+Iron Horse Armor                   , minecraft:iron_horse_armor              , 
+Golden Horse Armor                 , minecraft:golden_horse_armor            , 
+Diamond Horse Armor                , minecraft:diamond_horse_armor           , 
+Lead                               , minecraft:lead                          , 
+Name Tag                           , minecraft:name_tag                      , 
+Raw Mutton                         , minecraft:mutton                        , 
+Cooked Mutton                      , minecraft:cooked_mutton                 , 
+Banner                             , minecraft:banner                        , 
+End Crystal                        , minecraft:end_crystal                   , 
+Spruce Door                        , minecraft:spruce_door                   , 
+Birch Door                         , minecraft:birch_door                    , 
+Jungle Door                        , minecraft:jungle_door                   , 
+Acacia Door                        , minecraft:acacia_door                   , 
+Dark Oak Door                      , minecraft:dark_oak_door                 , 
+Chorus Fruit                       , minecraft:chorus_fruit                  , 
+Beetroot Seeds                     , minecraft:beetroot_seeds                , 
+Beetroot Soup                      , minecraft:beetroot_soup                 , 
+Spectral Arrow                     , minecraft:spectral_arrow                , 
+Tipped Arrow                       , minecraft:tipped_arrow                  , 
+Lingering Potion                   , minecraft:lingering_potion              , 
+Shield                             , minecraft:shield                        , 
+Elytra                             , minecraft:elytra                        , 
+Spruce Boat                        , minecraft:spruce_boat                   , 
+Birch Boat                         , minecraft:birch_boat                    , 
+Jungle Boat                        , minecraft:jungle_boat                   , 
+Acacia Boat                        , minecraft:acacia_boat                   , 
+Dark Oak Boat                      , minecraft:dark_oak_boat                 , 
+13                                 , minecraft:record_13                     , 
+Cat                                , minecraft:record_cat                    , 
+Blocks                             , minecraft:record_blocks                 , 
+Chirp                              , minecraft:record_chirp                  , 
+Far                                , minecraft:record_far                    , 
+Mall                               , minecraft:record_mall                   , 
+Mellohi                            , minecraft:record_mellohi                , 
+Stal                               , minecraft:record_stal                   , 
+Strad                              , minecraft:record_strad                  , 
+Ward                               , minecraft:record_ward                   , 
+11                                 , minecraft:record_11                     , 
+Wait                               , minecraft:record_wait                   , 
+Stone                              , minecraft:stone                         , 0
+Granite                            , minecraft:stone                         , 1
+Polished Granite                   , minecraft:stone                         , 2
+Diorite                            , minecraft:stone                         , 3
+Polished Diorite                   , minecraft:stone                         , 4
+Andesite                           , minecraft:stone                         , 5
+Polished Andesite                  , minecraft:stone                         , 6
+Grass Block                        , minecraft:grass                         , 
+Dirt                               , minecraft:dirt                          , 0
+Coarse Dirt                        , minecraft:dirt                          , 1
+Podzol                             , minecraft:dirt                          , 2
+Cobblestone                        , minecraft:cobblestone                   , 
+Oak Wood Planks                    , minecraft:planks                        , 0
+Spruce Wood Planks                 , minecraft:planks                        , 1
+Birch Wood Planks                  , minecraft:planks                        , 2
+Jungle Wood Planks                 , minecraft:planks                        , 3
+Acacia Wood Planks                 , minecraft:planks                        , 4
+Dark Oak Wood Planks               , minecraft:planks                        , 5
+Oak Sapling                        , minecraft:sapling                       , 0
+Spruce Sapling                     , minecraft:sapling                       , 1
+Birch Sapling                      , minecraft:sapling                       , 2
+Jungle Sapling                     , minecraft:sapling                       , 3
+Acacia Sapling                     , minecraft:sapling                       , 4
+Dark Oak Sapling                   , minecraft:sapling                       , 5
+Sand                               , minecraft:sand                          , 0
+Red Sand                           , minecraft:sand                          , 1
+Gravel                             , minecraft:gravel                        , 
+Gold Ore                           , minecraft:gold_ore                      , 
+Iron Ore                           , minecraft:iron_ore                      , 
+Coal Ore                           , minecraft:coal_ore                      , 
+Oak Log                            , minecraft:log                           , 0
+Spruce Log                         , minecraft:log                           , 1
+Birch Log                          , minecraft:log                           , 2
+Jungle Log                         , minecraft:log                           , 3
+Oak Leaves                         , minecraft:leaves                        , 0
+Spruce Leaves                      , minecraft:leaves                        , 1
+Birch Leaves                       , minecraft:leaves                        , 2
+Jungle Leaves                      , minecraft:leaves                        , 3
+Sponge                             , minecraft:sponge                        , 0
+Wet Sponge                         , minecraft:sponge                        , 1
+Glass                              , minecraft:glass                         , 
+Lapis Lazuli Ore                   , minecraft:lapis_ore                     , 
+Lapis Lazuli Block                 , minecraft:lapis_block                   , 
+Dispenser                          , minecraft:dispenser                     , 
+Sandstone                          , minecraft:sandstone                     , 0
+Chiseled Sandstone                 , minecraft:sandstone                     , 1
+Smooth Sandstone                   , minecraft:sandstone                     , 2
+Note Block                         , minecraft:noteblock                     , 
+Bed                                , minecraft:bed                           , 
+Powered Rail                       , minecraft:golden_rail                   , 
+Detector Rail                      , minecraft:detector_rail                 , 
+Sticky Piston                      , minecraft:sticky_piston                 , 
+Cobweb                             , minecraft:web                           , 
+Shrub                              , minecraft:tallgrass                     , 0
+Tall Grass                         , minecraft:tallgrass                     , 1
+Fern                               , minecraft:tallgrass                     , 2
+Piston                             , minecraft:piston                        , 
+White Wool                         , minecraft:wool                          , 0
+Orange Wool                        , minecraft:wool                          , 1
+Magenta Wool                       , minecraft:wool                          , 2
+Light Blue Wool                    , minecraft:wool                          , 3
+Yellow Wool                        , minecraft:wool                          , 4
+Lime Wool                          , minecraft:wool                          , 5
+Pink Wool                          , minecraft:wool                          , 6
+Gray Wool                          , minecraft:wool                          , 7
+Light Gray Wool                    , minecraft:wool                          , 8
+Cyan Wool                          , minecraft:wool                          , 9
+Purple Wool                        , minecraft:wool                          , 10
+Blue Wool                          , minecraft:wool                          , 11
+Brown Wool                         , minecraft:wool                          , 12
+Green Wool                         , minecraft:wool                          , 13
+Red Wool                           , minecraft:wool                          , 14
+Black Wool                         , minecraft:wool                          , 15
+Dandelion                          , minecraft:yellow_flower                 , 0
+Poppy                              , minecraft:red_flower                    , 0
+Blue Orchid                        , minecraft:red_flower                    , 1
+Allium                             , minecraft:red_flower                    , 2
+Azure Bluet                        , minecraft:red_flower                    , 3
+Red Tulip                          , minecraft:red_flower                    , 4
+Orange Tulip                       , minecraft:red_flower                    , 5
+White Tulip                        , minecraft:red_flower                    , 6
+Pink Tulip                         , minecraft:red_flower                    , 7
+Oxeye Daisy                        , minecraft:red_flower                    , 8
+Brown Mushroom 1                   , minecraft:brown_mushroom_block          , 0
+Brown Mushroom 2                   , minecraft:brown_mushroom_block          , 1
+Brown Mushroom 3                   , minecraft:brown_mushroom_block          , 2
+Brown Mushroom 4                   , minecraft:brown_mushroom_block          , 3
+Brown Mushroom 5                   , minecraft:brown_mushroom_block          , 4
+Brown Mushroom 6                   , minecraft:brown_mushroom_block          , 5
+Brown Mushroom 7                   , minecraft:brown_mushroom_block          , 6
+Brown Mushroom 8                   , minecraft:brown_mushroom_block          , 7
+Brown Mushroom 9                   , minecraft:brown_mushroom_block          , 8
+Brown Mushroom 10                  , minecraft:brown_mushroom_block          , 9
+Brown Mushroom 11                  , minecraft:brown_mushroom_block          , 10
+Brown Mushroom 12                  , minecraft:brown_mushroom_block          , 14
+Brown Mushroom 13                  , minecraft:brown_mushroom_block          , 15
+Red Mushroom 1                     , minecraft:red_mushroom_block            , 0
+Red Mushroom 2                     , minecraft:red_mushroom_block            , 1
+Red Mushroom 3                     , minecraft:red_mushroom_block            , 2
+Red Mushroom 4                     , minecraft:red_mushroom_block            , 3
+Red Mushroom 5                     , minecraft:red_mushroom_block            , 4
+Red Mushroom 6                     , minecraft:red_mushroom_block            , 5
+Red Mushroom 7                     , minecraft:red_mushroom_block            , 6
+Red Mushroom 8                     , minecraft:red_mushroom_block            , 7
+Red Mushroom 9                     , minecraft:red_mushroom_block            , 8
+Red Mushroom 10                    , minecraft:red_mushroom_block            , 9
+Red Mushroom 11                    , minecraft:red_mushroom_block            , 10
+Red Mushroom 12                    , minecraft:red_mushroom_block            , 14
+Red Mushroom 13                    , minecraft:red_mushroom_block            , 15
+Block of Gold                      , minecraft:gold_block                    , 
+Block of Iron                      , minecraft:iron_block                    , 
+Stone Slab                         , minecraft:stone_slab                    , 0
+Sandstone Slab                     , minecraft:stone_slab                    , 1
+Cobblestone Slab                   , minecraft:stone_slab                    , 3
+Bricks Slab                        , minecraft:stone_slab                    , 4
+Stone Brick Slab                   , minecraft:stone_slab                    , 5
+Nether Brick Slab                  , minecraft:stone_slab                    , 6
+Quartz Slab                        , minecraft:stone_slab                    , 7
+Bricks                             , minecraft:brick_block                   , 
+TNT                                , minecraft:tnt                           , 
+Bookshelf                          , minecraft:bookshelf                     , 
+Moss Stone                         , minecraft:mossy_cobblestone             , 
+Obsidian                           , minecraft:obsidian                      , 
+Torch                              , minecraft:torch                         , 
+Oak Wood Stairs                    , minecraft:oak_stairs                    , 
+Chest                              , minecraft:chest                         , 
+Trapped Chest                      , minecraft:trapped_chest                 , 
+Ender Chest                        , minecraft:ender_chest                   , 
+Diamond Ore                        , minecraft:diamond_ore                   , 
+Block of Diamond                   , minecraft:diamond_block                 , 
+Crafting Table                     , minecraft:crafting_table                , 
+Wheat                              , minecraft:wheat                         , 
+Furnace                            , minecraft:furnace                       , 
+Oak Door                           , minecraft:wooden_door                   , 
+Ladder                             , minecraft:ladder                        , 
+Rail                               , minecraft:rail                          , 
+Cobblestone Stairs                 , minecraft:stone_stairs                  , 
+Lever                              , minecraft:lever                         , 
+Stone Pressure Plate               , minecraft:stone_pressure_plate          , 
+Iron Door                          , minecraft:iron_door                     , 
+Wooden Pressure Plate              , minecraft:wooden_pressure_plate         , 
+Redstone Ore                       , minecraft:redstone_ore                  , 
+Stone Button                       , minecraft:stone_button                  , 
+Snow Layer                         , minecraft:snow_layer                    , 
+Ice                                , minecraft:ice                           , 
+Snow                               , minecraft:snow                          , 
+Cactus                             , minecraft:cactus                        , 
+Clay                               , minecraft:clay                          , 
+Sugar Cane                         , minecraft:reeds                         , 
+Jukebox                            , minecraft:jukebox                       , 
+Fence                              , minecraft:fence                         , 
+Pumpkin                            , minecraft:pumpkin                       , 
+Netherrack                         , minecraft:netherrack                    , 
+Soul Sand                          , minecraft:soul_sand                     , 
+Glowstone                          , minecraft:glowstone                     , 
+Jack o'Lantern                     , minecraft:lit_pumpkin                   , 
+Cake                               , minecraft:cake                          , 
+White Stained Glass                , minecraft:stained_glass                 , 0
+Orange Stained Glass               , minecraft:stained_glass                 , 1
+Magenta Stained Glass              , minecraft:stained_glass                 , 2
+Light Blue Stained Glass           , minecraft:stained_glass                 , 3
+Yellow Stained Glass               , minecraft:stained_glass                 , 4
+Lime Stained Glass                 , minecraft:stained_glass                 , 5
+Pink Stained Glass                 , minecraft:stained_glass                 , 6
+Gray Stained Glass                 , minecraft:stained_glass                 , 7
+Light Gray Stained Glass           , minecraft:stained_glass                 , 8
+Cyan Stained Glass                 , minecraft:stained_glass                 , 9
+Purple Stained Glass               , minecraft:stained_glass                 , 10
+Blue Stained Glass                 , minecraft:stained_glass                 , 11
+Brown Stained Glass                , minecraft:stained_glass                 , 12
+Green Stained Glass                , minecraft:stained_glass                 , 13
+Red Stained Glass                  , minecraft:stained_glass                 , 14
+Black Stained Glass                , minecraft:stained_glass                 , 15
+Trapdoor                           , minecraft:trapdoor                      , 
+Stone Monster Egg                  , minecraft:monster_egg                   , 0
+Stone Brick Monster Egg            , minecraft:monster_egg                   , 2
+Mossy Stone Brick Monster Egg      , minecraft:monster_egg                   , 3
+Cracked Stone Brick Monster Egg    , minecraft:monster_egg                   , 4
+Chiseled Stone Brick Monster Egg   , minecraft:monster_egg                   , 5
+Stone Bricks                       , minecraft:stonebrick                    , 0
+Mossy Stone Bricks                 , minecraft:stonebrick                    , 1
+Cracked Stone Bricks               , minecraft:stonebrick                    , 2
+Chiseled Stone Bricks              , minecraft:stonebrick                    , 3
+Brown Mushroom                     , minecraft:brown_mushroom                , 
+Red Mushroom                       , minecraft:red_mushroom                  , 
+Iron Bars                          , minecraft:iron_bars                     , 
+Glass Pane                         , minecraft:glass_pane                    , 
+Melon                              , minecraft:melon_block                   , 
+Vines                              , minecraft:vine                          , 
+Fence Gate                         , minecraft:fence_gate                    , 
+Brick Stairs                       , minecraft:brick_stairs                  , 
+Stone Brick Stairs                 , minecraft:stone_brick_stairs            , 
+Mycelium                           , minecraft:mycelium                      , 
+Lily Pad                           , minecraft:waterlily                     , 
+Nether Brick                       , minecraft:nether_brick                  , 
+Nether Brick Fence                 , minecraft:nether_brick_fence            , 
+Nether Brick Stairs                , minecraft:nether_brick_stairs           , 
+Nether Wart                        , minecraft:nether_wart                   , 
+Enchantment Table                  , minecraft:enchanting_table              , 
+Brewing Stand                      , minecraft:brewing_stand                 , 
+Cauldron                           , minecraft:cauldron                      , 
+End Stone                          , minecraft:end_stone                     , 
+Dragon Egg                         , minecraft:dragon_egg                    , 
+Redstone Lamp                      , minecraft:redstone_lamp                 , 
+Oak Slab                           , minecraft:wooden_slab                   , 0
+Spruce Slab                        , minecraft:wooden_slab                   , 1
+Birch Slab                         , minecraft:wooden_slab                   , 2
+Jungle Slab                        , minecraft:wooden_slab                   , 3
+Acacia Slab                        , minecraft:wooden_slab                   , 4
+Dark Oak Slab                      , minecraft:wooden_slab                   , 5
+Sandstone Stairs                   , minecraft:sandstone_stairs              , 
+Emerald Ore                        , minecraft:emerald_ore                   , 
+Tripwire Hook                      , minecraft:tripwire_hook                 , 
+Block of Emerald                   , minecraft:emerald_block                 , 
+Spruce Wood Stairs                 , minecraft:spruce_stairs                 , 
+Birch Wood Stairs                  , minecraft:birch_stairs                  , 
+Jungle Wood Stairs                 , minecraft:jungle_stairs                 , 
+Beacon                             , minecraft:beacon                        , 
+Cobblestone Wall                   , minecraft:cobblestone_wall              , 0
+Mossy Cobblestone Wall             , minecraft:cobblestone_wall              , 1
+Flower Pot                         , minecraft:flower_pot                    , 
+Wooden Button                      , minecraft:wooden_button                 , 
+Skeleton Skull                     , minecraft:skull                         , 0
+Wither Skeleton Skull              , minecraft:skull                         , 1
+Zombie Head                        , minecraft:skull                         , 2
+Creeper Head                       , minecraft:skull                         , 4
+Dragon Head                        , minecraft:skull                         , 5
+Anvil                              , minecraft:anvil                         , 0
+Slightly Damaged Anvil             , minecraft:anvil                         , 1
+Very DamagedAnvil                  , minecraft:anvil                         , 2
+Weighted Pressure Plate            , minecraft:light_weighted_pressure_plate , 
+Weighted Pressure Plate            , minecraft:heavy_weighted_pressure_plate , 
+Daylight Sensor                    , minecraft:daylight_detector             , 
+Block of Redstone                  , minecraft:redstone_block                , 
+Nether Quartz Ore                  , minecraft:quartz_ore                    , 
+Hopper                             , minecraft:hopper                        , 
+Block of Quartz                    , minecraft:quartz_block                  , 0
+Chiseled Quartz Block              , minecraft:quartz_block                  , 1
+Pillar Quartz Block                , minecraft:quartz_block                  , 2
+Quartz Stairs                      , minecraft:quartz_stairs                 , 
+Activator Rail                     , minecraft:activator_rail                , 
+Dropper                            , minecraft:dropper                       , 
+White Stained Clay                 , minecraft:stained_hardened_clay         , 0
+Orange Stained Clay                , minecraft:stained_hardened_clay         , 1
+Magenta Stained Clay               , minecraft:stained_hardened_clay         , 2
+Light Blue Stained Clay            , minecraft:stained_hardened_clay         , 3
+Yellow Stained Clay                , minecraft:stained_hardened_clay         , 4
+Lime Stained Clay                  , minecraft:stained_hardened_clay         , 5
+Pink Stained Clay                  , minecraft:stained_hardened_clay         , 6
+Gray Stained Clay                  , minecraft:stained_hardened_clay         , 7
+Light Gray Stained Clay            , minecraft:stained_hardened_clay         , 8
+Cyan Stained Clay                  , minecraft:stained_hardened_clay         , 9
+Purple Stained Clay                , minecraft:stained_hardened_clay         , 10
+Blue Stained Clay                  , minecraft:stained_hardened_clay         , 11
+Brown Stained Clay                 , minecraft:stained_hardened_clay         , 12
+Green Stained Clay                 , minecraft:stained_hardened_clay         , 13
+Red Stained Clay                   , minecraft:stained_hardened_clay         , 14
+Black Stained Clay                 , minecraft:stained_hardened_clay         , 15
+White Stained Glass Pane           , minecraft:stained_glass_pane            , 0
+Orange Stained Glass Pane          , minecraft:stained_glass_pane            , 1
+Magenta Stained Glass Pane         , minecraft:stained_glass_pane            , 2
+Light Blue Stained Glass Pane      , minecraft:stained_glass_pane            , 3
+Yellow Stained Glass Pane          , minecraft:stained_glass_pane            , 4
+Lime Stained Glass Pane            , minecraft:stained_glass_pane            , 5
+Pink Stained Glass Pane            , minecraft:stained_glass_pane            , 6
+Gray Stained Glass Pane            , minecraft:stained_glass_pane            , 7
+Light Gray Stained Glass Pane      , minecraft:stained_glass_pane            , 8
+Cyan Stained Glass Pane            , minecraft:stained_glass_pane            , 9
+Purple Stained Glass Pane          , minecraft:stained_glass_pane            , 10
+Blue Stained Glass Pane            , minecraft:stained_glass_pane            , 11
+Brown Stained Glass Pane           , minecraft:stained_glass_pane            , 12
+Green Stained Glass Pane           , minecraft:stained_glass_pane            , 13
+Red Stained Glass Pane             , minecraft:stained_glass_pane            , 14
+Black Stained Glass Pane           , minecraft:stained_glass_pane            , 15
+Acacia Leaves                      , minecraft:leaves2                       , 0
+Dark Oak Leaves                    , minecraft:leaves2                       , 1
+Acacia Log                         , minecraft:log2                          , 0
+Dark Oak Log                       , minecraft:log2                          , 1
+Acacia Wood Stairs                 , minecraft:acacia_stairs                 , 
+Dark Oak Wood Stairs               , minecraft:dark_oak_stairs               , 
+Slime Block                        , minecraft:slime                         , 
+Iron Trapdoor                      , minecraft:iron_trapdoor                 , 
+Prismarine                         , minecraft:prismarine                    , 0
+Prismarine Bricks                  , minecraft:prismarine                    , 1
+Dark Prismarine                    , minecraft:prismarine                    , 2
+Sea Lantern                        , minecraft:sea_lantern                   , 
+Hay Bale                           , minecraft:hay_block                     , 
+White Carpet                       , minecraft:carpet                        , 0
+Orange Carpet                      , minecraft:carpet                        , 1
+Magenta Carpet                     , minecraft:carpet                        , 2
+Light Blue Carpet                  , minecraft:carpet                        , 3
+Yellow Carpet                      , minecraft:carpet                        , 4
+Lime Carpet                        , minecraft:carpet                        , 5
+Pink Carpet                        , minecraft:carpet                        , 6
+Gray Carpet                        , minecraft:carpet                        , 7
+Light Gray Carpet                  , minecraft:carpet                        , 8
+Cyan Carpet                        , minecraft:carpet                        , 9
+Purple Carpet                      , minecraft:carpet                        , 10
+Blue Carpet                        , minecraft:carpet                        , 11
+Brown Carpet                       , minecraft:carpet                        , 12
+Green Carpet                       , minecraft:carpet                        , 13
+Red Carpet                         , minecraft:carpet                        , 14
+Black Carpet                       , minecraft:carpet                        , 15
+Hardened Clay                      , minecraft:hardened_clay                 , 
+Block of Coal                      , minecraft:coal_block                    , 
+Packed Ice                         , minecraft:packed_ice                    , 
+Sunflower                          , minecraft:double_plant                  , 0
+Lilac                              , minecraft:double_plant                  , 1
+Double Tallgrass                   , minecraft:double_plant                  , 2
+Large Fern                         , minecraft:double_plant                  , 3
+Rose Bush                          , minecraft:double_plant                  , 4
+Peony                              , minecraft:double_plant                  , 5
+Red Sandstone                      , minecraft:red_sandstone                 , 0
+Chiseled Red Sandstone             , minecraft:red_sandstone                 , 1
+Smooth Red Sandstone               , minecraft:red_sandstone                 , 2
+Red Sandstone Stairs               , minecraft:red_sandstone_stairs          , 
+Red Sandstone Slab                 , minecraft:stone_slab2                   , 
+Spruce Fence Gate                  , minecraft:spruce_fence_gate             , 
+Birch Fence Gate                   , minecraft:birch_fence_gate              , 
+Jungle Fence Gate                  , minecraft:jungle_fence_gate             , 
+Dark Oak Fence Gate                , minecraft:dark_oak_fence_gate           , 
+Acacia Fence Gate                  , minecraft:acacia_fence_gate             , 
+Spruce Fence                       , minecraft:spruce_fence                  , 
+Birch Fence                        , minecraft:birch_fence                   , 
+Jungle Fence                       , minecraft:jungle_fence                  , 
+Dark Oak Fence                     , minecraft:dark_oak_fence                , 
+Acacia Fence                       , minecraft:acacia_fence                  , 
+Spruce Door                        , minecraft:spruce_door                   , 
+Birch Door                         , minecraft:birch_door                    , 
+Jungle Door                        , minecraft:jungle_door                   , 
+Acacia Door                        , minecraft:acacia_door                   , 
+Dark Oak Door                      , minecraft:dark_oak_door                 , 
+End Rod                            , minecraft:end_rod                       , 
+Chorus Plant                       , minecraft:chorus_plant                  , 
+Chorus Flower                      , minecraft:chorus_flower                 , 
+Purpur Block                       , minecraft:purpur_block                  , 
+Purpur Pillar                      , minecraft:purpur_pillar                 , 
+Purpur Stairs                      , minecraft:purpur_stairs                 , 
+Purpur Slab                        , minecraft:purpur_slab                   , 
+End Stone Bricks                   , minecraft:end_bricks                    , 
+Mundane Potion                     , minecraft:potion                        , 0
+Awkward Potion                     , minecraft:potion                        , 16
+Thick Potion II                    , minecraft:potion                        , 32
+Extended Mundane Potion            , minecraft:potion                        , 64
+Mundane Potion                     , minecraft:potion                        , 8192
+Mundane Potion                     , minecraft:splash_potion                 , 16384
+Potion of Regeneration             , minecraft:potion                        , 8193
+Potion of Regeneration             , minecraft:splash_potion                 , 16385
+Extended Potion of Regeneration    , minecraft:potion                        , 8257
+Extended Potion of Regeneration    , minecraft:splash_potion                 , 16449
+Potion of Regeneration II          , minecraft:potion                        , 8225
+Potion of Regeneration II          , minecraft:splash_potion                 , 16417
+Potion of Swiftness                , minecraft:potion                        , 8194
+Potion of Swiftness                , minecraft:splash_potion                 , 16386
+Extended Potion of Swiftness       , minecraft:potion                        , 8258
+Extended Potion of Swiftness       , minecraft:splash_potion                 , 16450
+Potion of Swiftness II             , minecraft:potion                        , 8226
+Potion of Swiftness II             , minecraft:splash_potion                 , 16418
+Potion of Fire Resistance          , minecraft:potion                        , 8195
+Potion of Fire Resistance          , minecraft:splash_potion                 , 16387
+Extended Potion of Fire Resistance , minecraft:potion                        , 8259
+Extended Potion of Fire Resistance , minecraft:splash_potion                 , 16451
+Potion of Healing                  , minecraft:potion                        , 8197
+Potion of Healing                  , minecraft:splash_potion                 , 16389
+Potion of Healing II               , minecraft:potion                        , 8229
+Potion of Healing II               , minecraft:splash_potion                 , 16421
+Potion of Night Vision             , minecraft:potion                        , 8198
+Potion of Night Vision             , minecraft:splash_potion                 , 16390
+Extended Potion of Night Vision    , minecraft:potion                        , 8262
+Extended Potion of Night Vision    , minecraft:splash_potion                 , 16454
+Potion of Strength                 , minecraft:potion                        , 8201
+Potion of Strength                 , minecraft:splash_potion                 , 16393
+Extended Potion of Strength        , minecraft:potion                        , 8265
+Extended Potion of Strength        , minecraft:splash_potion                 , 16457
+Potion of Strength II              , minecraft:potion                        , 8233
+Potion of Strength II              , minecraft:splash_potion                 , 16425
+Potion of Leaping                  , minecraft:potion                        , 8203
+Potion of Leaping                  , minecraft:splash_potion                 , 16395
+Extended Potion of Leaping         , minecraft:potion                        , 8267
+Extended Potion of Leaping         , minecraft:splash_potion                 , 16459
+Potion of Leaping II               , minecraft:potion                        , 8235
+Potion of Leaping II               , minecraft:splash_potion                 , 16427
+Potion of Water Breathing          , minecraft:potion                        , 8205
+Potion of Water Breathing          , minecraft:splash_potion                 , 16397
+Extended Potion of Water Breathing , minecraft:potion                        , 8269
+Extended Potion of Water Breathing , minecraft:splash_potion                 , 16461
+Potion of Invisibility             , minecraft:potion                        , 8206
+Potion of Invisibility             , minecraft:splash_potion                 , 16398
+Extended Potion of Invisibility    , minecraft:potion                        , 8270
+Extended Potion of Invisibility    , minecraft:splash_potion                 , 16462
+Potion of Poison                   , minecraft:potion                        , 8196
+Potion of Poison                   , minecraft:splash_potion                 , 16388
+Extended Potion of Poison          , minecraft:potion                        , 8260
+Extended Potion of Poison          , minecraft:splash_potion                 , 16452
+Potion of Poison II                , minecraft:potion                        , 8228
+Potion of Poison II                , minecraft:splash_potion                 , 16420
+Potion of Weakness                 , minecraft:potion                        , 8200
+Potion of Weakness                 , minecraft:splash_potion                 , 16392
+Extended Potion of Weakness        , minecraft:potion                        , 8264
+Extended Potion of Weakness        , minecraft:splash_potion                 , 16456
+Potion of Slowness                 , minecraft:potion                        , 8202
+Potion of Slowness                 , minecraft:splash_potion                 , 16394
+Extended Potion of Slowness        , minecraft:potion                        , 8266
+Extended Potion of Slowness        , minecraft:splash_potion                 , 16458
+Potion of Harming                  , minecraft:potion                        , 8204
+Potion of Harming                  , minecraft:splash_potion                 , 16396
+Potion of Harming II               , minecraft:potion                        , 8236
+Potion of Harming II               , minecraft:splash_potion                 , 16428
