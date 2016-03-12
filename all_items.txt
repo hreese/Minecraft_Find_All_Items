@@ -147,7 +147,6 @@ Glistering Melon                   , minecraft:speckled_melon                ,
 Bottle o' Enchanting               , minecraft:experience_bottle             , 
 Fire Charge                        , minecraft:fire_charge                   , 
 Book and Quill                     , minecraft:writable_book                 , 
-Written Book                       , minecraft:written_book                  , 
 Emerald                            , minecraft:emerald                       , 
 Item Frame                         , minecraft:item_frame                    , 
 Flower Pot                         , minecraft:flower_pot                    , 
@@ -162,7 +161,6 @@ Nether Star                        , minecraft:nether_star                   ,
 Pumpkin Pie                        , minecraft:pumpkin_pie                   , 
 Firework Rocket                    , minecraft:fireworks                     , 
 Firework Star                      , minecraft:firework_charge               , 
-Enchanted Book                     , minecraft:enchanted_book                , 
 Redstone Comparator                , minecraft:comparator                    , 
 Nether Brick                       , minecraft:netherbrick                   , 
 Nether Quartz                      , minecraft:quartz                        , 
@@ -298,32 +296,8 @@ Orange Tulip                       , minecraft:red_flower                    , 5
 White Tulip                        , minecraft:red_flower                    , 6
 Pink Tulip                         , minecraft:red_flower                    , 7
 Oxeye Daisy                        , minecraft:red_flower                    , 8
-Brown Mushroom 1                   , minecraft:brown_mushroom_block          , 0
-Brown Mushroom 2                   , minecraft:brown_mushroom_block          , 1
-Brown Mushroom 3                   , minecraft:brown_mushroom_block          , 2
-Brown Mushroom 4                   , minecraft:brown_mushroom_block          , 3
-Brown Mushroom 5                   , minecraft:brown_mushroom_block          , 4
-Brown Mushroom 6                   , minecraft:brown_mushroom_block          , 5
-Brown Mushroom 7                   , minecraft:brown_mushroom_block          , 6
-Brown Mushroom 8                   , minecraft:brown_mushroom_block          , 7
-Brown Mushroom 9                   , minecraft:brown_mushroom_block          , 8
-Brown Mushroom 10                  , minecraft:brown_mushroom_block          , 9
-Brown Mushroom 11                  , minecraft:brown_mushroom_block          , 10
-Brown Mushroom 12                  , minecraft:brown_mushroom_block          , 14
-Brown Mushroom 13                  , minecraft:brown_mushroom_block          , 15
-Red Mushroom 1                     , minecraft:red_mushroom_block            , 0
-Red Mushroom 2                     , minecraft:red_mushroom_block            , 1
-Red Mushroom 3                     , minecraft:red_mushroom_block            , 2
-Red Mushroom 4                     , minecraft:red_mushroom_block            , 3
-Red Mushroom 5                     , minecraft:red_mushroom_block            , 4
-Red Mushroom 6                     , minecraft:red_mushroom_block            , 5
-Red Mushroom 7                     , minecraft:red_mushroom_block            , 6
-Red Mushroom 8                     , minecraft:red_mushroom_block            , 7
-Red Mushroom 9                     , minecraft:red_mushroom_block            , 8
-Red Mushroom 10                    , minecraft:red_mushroom_block            , 9
-Red Mushroom 11                    , minecraft:red_mushroom_block            , 10
-Red Mushroom 12                    , minecraft:red_mushroom_block            , 14
-Red Mushroom 13                    , minecraft:red_mushroom_block            , 15
+Brown Mushroom Block               , minecraft:brown_mushroom_block          , 0
+Red Mushroom Block                 , minecraft:red_mushroom_block            , 0
 Block of Gold                      , minecraft:gold_block                    , 
 Block of Iron                      , minecraft:iron_block                    , 
 Stone Slab                         , minecraft:stone_slab                    , 0
@@ -555,71 +529,3 @@ Purpur Pillar                      , minecraft:purpur_pillar                 ,
 Purpur Stairs                      , minecraft:purpur_stairs                 , 
 Purpur Slab                        , minecraft:purpur_slab                   , 
 End Stone Bricks                   , minecraft:end_bricks                    , 
-Mundane Potion                     , minecraft:potion                        , 0
-Awkward Potion                     , minecraft:potion                        , 16
-Thick Potion II                    , minecraft:potion                        , 32
-Extended Mundane Potion            , minecraft:potion                        , 64
-Mundane Potion                     , minecraft:potion                        , 8192
-Mundane Potion                     , minecraft:splash_potion                 , 16384
-Potion of Regeneration             , minecraft:potion                        , 8193
-Potion of Regeneration             , minecraft:splash_potion                 , 16385
-Extended Potion of Regeneration    , minecraft:potion                        , 8257
-Extended Potion of Regeneration    , minecraft:splash_potion                 , 16449
-Potion of Regeneration II          , minecraft:potion                        , 8225
-Potion of Regeneration II          , minecraft:splash_potion                 , 16417
-Potion of Swiftness                , minecraft:potion                        , 8194
-Potion of Swiftness                , minecraft:splash_potion                 , 16386
-Extended Potion of Swiftness       , minecraft:potion                        , 8258
-Extended Potion of Swiftness       , minecraft:splash_potion                 , 16450
-Potion of Swiftness II             , minecraft:potion                        , 8226
-Potion of Swiftness II             , minecraft:splash_potion                 , 16418
-Potion of Fire Resistance          , minecraft:potion                        , 8195
-Potion of Fire Resistance          , minecraft:splash_potion                 , 16387
-Extended Potion of Fire Resistance , minecraft:potion                        , 8259
-Extended Potion of Fire Resistance , minecraft:splash_potion                 , 16451
-Potion of Healing                  , minecraft:potion                        , 8197
-Potion of Healing                  , minecraft:splash_potion                 , 16389
-Potion of Healing II               , minecraft:potion                        , 8229
-Potion of Healing II               , minecraft:splash_potion                 , 16421
-Potion of Night Vision             , minecraft:potion                        , 8198
-Potion of Night Vision             , minecraft:splash_potion                 , 16390
-Extended Potion of Night Vision    , minecraft:potion                        , 8262
-Extended Potion of Night Vision    , minecraft:splash_potion                 , 16454
-Potion of Strength                 , minecraft:potion                        , 8201
-Potion of Strength                 , minecraft:splash_potion                 , 16393
-Extended Potion of Strength        , minecraft:potion                        , 8265
-Extended Potion of Strength        , minecraft:splash_potion                 , 16457
-Potion of Strength II              , minecraft:potion                        , 8233
-Potion of Strength II              , minecraft:splash_potion                 , 16425
-Potion of Leaping                  , minecraft:potion                        , 8203
-Potion of Leaping                  , minecraft:splash_potion                 , 16395
-Extended Potion of Leaping         , minecraft:potion                        , 8267
-Extended Potion of Leaping         , minecraft:splash_potion                 , 16459
-Potion of Leaping II               , minecraft:potion                        , 8235
-Potion of Leaping II               , minecraft:splash_potion                 , 16427
-Potion of Water Breathing          , minecraft:potion                        , 8205
-Potion of Water Breathing          , minecraft:splash_potion                 , 16397
-Extended Potion of Water Breathing , minecraft:potion                        , 8269
-Extended Potion of Water Breathing , minecraft:splash_potion                 , 16461
-Potion of Invisibility             , minecraft:potion                        , 8206
-Potion of Invisibility             , minecraft:splash_potion                 , 16398
-Extended Potion of Invisibility    , minecraft:potion                        , 8270
-Extended Potion of Invisibility    , minecraft:splash_potion                 , 16462
-Potion of Poison                   , minecraft:potion                        , 8196
-Potion of Poison                   , minecraft:splash_potion                 , 16388
-Extended Potion of Poison          , minecraft:potion                        , 8260
-Extended Potion of Poison          , minecraft:splash_potion                 , 16452
-Potion of Poison II                , minecraft:potion                        , 8228
-Potion of Poison II                , minecraft:splash_potion                 , 16420
-Potion of Weakness                 , minecraft:potion                        , 8200
-Potion of Weakness                 , minecraft:splash_potion                 , 16392
-Extended Potion of Weakness        , minecraft:potion                        , 8264
-Extended Potion of Weakness        , minecraft:splash_potion                 , 16456
-Potion of Slowness                 , minecraft:potion                        , 8202
-Potion of Slowness                 , minecraft:splash_potion                 , 16394
-Extended Potion of Slowness        , minecraft:potion                        , 8266
-Extended Potion of Slowness        , minecraft:splash_potion                 , 16458
-Potion of Harming                  , minecraft:potion                        , 8204
-Potion of Harming                  , minecraft:splash_potion                 , 16396
-Potion of Harming II               , minecraft:potion                        , 8236
-Potion of Harming II               , minecraft:splash_potion                 , 16428

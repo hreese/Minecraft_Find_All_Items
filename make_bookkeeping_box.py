@@ -57,11 +57,14 @@ Commandblock = Enum('Commandblock', {
     'chain'     : ('Chain Command Block', 'minecraft:chain_command_block')
 })
 
-def GenCommandBlock(type=Commandblock.plain, direction=north, repeating=False):
+def GenCommandBlock(type=Commandblock.plain, direction=north, repeating=False,
+        alwaysActive=False):
     """Generate commandblock MCItem"""
     data = commandblockfacing[direction]
     if repeating:
         data += 8
+    if alwaysActive:
+        data += 16
     return MCItem(*type.value, data=data)
 
 #      S
@@ -81,7 +84,7 @@ def SquareCorners(nwcorner=Coordinate(0,80,0), width=35):
             ((1,0,0), west, north)):
         yield (nwcorner + (Coordinate(*start) * (width-1)) +Coordinate(*bdir), wdir, bdir)
 
-def DetectorStartIter(numitems=633, height=5, nwcorner=Coordinate(0,80,0)):
+def DetectorStartIter(numitems=533, height=5, nwcorner=Coordinate(0,80,0)):
     """Yield all starting positions for each single item detector mechanism"""
     lengthwall = ceil(numitems/height/4)
     for (corner, walldir, builddir) in SquareCorners(nwcorner, lengthwall):
@@ -100,6 +103,7 @@ t_setblock        = 'setblock {} {} {} {} {} replace'
 t_summonitemframe = 'summon ItemFrame {} {} {} {{Facing:{}, Item:{{id: "{}", Damage:{}, ' + \
                     'Count:1, Invulnerable:1, tag:{{display:{{Name:"{}"}}}}}},ItemRotation:0,Invulnerable:1,Age:1}}'
 t_commandblock   = 'setblock {} {} {} {} {} replace {{Command:"{}"}}'
+t_commandblockauto = 'setblock {} {} {} {} {} replace {{Command:"{}",auto:1}}'
 
 def DetectorString(item = MCItem('Sand', 'minecraft:sand', 0), coord = Coordinate(0,64,0), direction = north):
     """str.format ist eine grosse Scheisse, ich mach das jetzt in haesslich"""
@@ -133,22 +137,23 @@ def DetectorString(item = MCItem('Sand', 'minecraft:sand', 0), coord = Coordinat
     block = GenCommandBlock(Commandblock.chain, direction, True)
     # FIXME: make this code position-independant
     bc = coord+(direction*1)
-    command = escaped(t_setblock.format(bc.x, bc.y, bc.z, 'minecraft:wool', 5))
-    output.append(t_commandblock.format(c.x, c.y, c.z,
+    command = escaped(t_setblock.format(bc.x, bc.y, bc.z,
+        'minecraft:emerald_block', 0))
+    output.append(t_commandblockauto.format(c.x, c.y, c.z,
         block.id, block.data, command))
 
     # commandblock: play sound
     c = coord+(direction*4)
     block = GenCommandBlock(Commandblock.chain, direction, True)
     command = escaped(t_playsound)
-    output.append(t_commandblock.format(c.x, c.y, c.z,
+    output.append(t_commandblockauto.format(c.x, c.y, c.z,
         block.id, block.data, command))
 
     # commandblock: tell found in chat
     c = coord+(direction*5)
     block = GenCommandBlock(Commandblock.chain, direction, True)
     command = escaped(t_foundmessage.format(item.name))
-    output.append(t_commandblock.format(c.x, c.y, c.z,
+    output.append(t_commandblockauto.format(c.x, c.y, c.z,
         block.id, block.data, command))
 
     # return all commands
@@ -162,7 +167,8 @@ def ItemListIter(filename='all_items.txt'):
             yield MCItem(name, id, data)
 
 # main
-
-for item, (start, direction) in zip(ItemListIter(), DetectorStartIter()):
+items = tuple(ItemListIter())
+for item, (start, direction) in zip(iter(items),
+        DetectorStartIter(numitems=len(items))):
     print(DetectorString(item, start, direction))
 
