@@ -100,8 +100,8 @@ t_testforblock    = 'testfor @a[m=s] {{Inventory:[{{{}}}]}}'
 t_playsound       = 'playsound minecraft:entity.firework.launch master @a 0 0 0 1 1 1'
 t_foundmessage    = 'say Found {}'
 t_setblock        = 'setblock {} {} {} {} {} replace'
-t_summonitemframe = 'summon ItemFrame {} {} {} {{Facing:{}, Item:{{id: "{}", Damage:{}, ' + \
-        'Count:1, Invulnerable:1, tag:{{display:{{Name:"{}"}},Age:1}}}},ItemRotation:0,Invulnerable:1,Age:1}}'
+t_summonitemframe = 'summon ItemFrame {} {} {} {{PickupDelay:32767, Age:5999, Facing:{}, Item:{{id: "{}", Damage:{}, ' + \
+        'Count:1, Invulnerable:1,Age:5999, PickupDelay:32767, tag:{{display:{{Name:"{}"}}}}}},ItemRotation:0,Invulnerable:1}}'
 t_commandblock   = 'setblock {} {} {} {} {} replace {{Command:"{}"}}'
 t_commandblockauto = 'setblock {} {} {} {} {} replace {{Command:"{}",auto:1}}'
 
@@ -172,8 +172,8 @@ width  = 35
 heigth = 5
 nwcorner = Coordinate(256,90,256)
 (x1,_,x2,_) = SquareCorners(nwcorner=nwcorner, width=width)
-c1 = x1[0]+Coordinate(-6,-1,-6)
-c2 = x2[0]+Coordinate(+6,heigth+2,+6)
+c1 = x1[0]+Coordinate(-7,-1,-7)
+c2 = x2[0]+Coordinate(-1,heigth,-1)
 
 print('/fill {} {} {} {} {} {} minecraft:air 0 replace'.format(c1.x, c1.y, c1.z, c2.x, c2.y, c2.z))
 print('/fill {} {} {} {} {} {} minecraft:stained_glass 15 outline'.format(c1.x, c1.y, c1.z, c2.x, c2.y, c2.z))
